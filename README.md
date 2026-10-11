@@ -1,0 +1,2 @@
+# Python-dersleri-
+Okul icin 
